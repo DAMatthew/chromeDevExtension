@@ -1,0 +1,1 @@
+"use strict";chrome.runtime.onInstalled.addListener(function(a){if(a){var b=new bookMarkStorage;"add"===a.action&&b.add(a.data)}});

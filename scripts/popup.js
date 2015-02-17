@@ -1,0 +1,1 @@
+"use strict";$(document).ready(function(){var a=function(){$("body").append("Save me!")};$(document).on("click","#bookMark_button",function(){var a=document.title,b=window.location.href;console.log(a+": "+b)}),a()});

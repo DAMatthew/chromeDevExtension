@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "saveProgress",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Reading Location Saver",
+    "description": "The description of the application"
+  }
+}

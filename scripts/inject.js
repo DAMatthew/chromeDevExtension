@@ -1,0 +1,1 @@
+$(document).ready(function(){$(document).on("click","#bookMark_button",function(){var a=document.title,b=window.location.href;chrome.extension.sendMessage({action:"add",data:{title:a,url:b}}),alert("Marked!")})});
